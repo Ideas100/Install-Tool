@@ -1,0 +1,19 @@
+= Install Tool
+
+The moto is installing required packages at the time of installing the
+Linux. This is very basic script for installing packages provided in
+the packagelist.txt
+
+== Usage
+
+Before running the script, Read and select the packages in the
+packageslist.txt
+Note: script is tested only in ubuntu
+
+------
+$ bash install_tool.sh <options>
+------
+Try options --help to show the list of options to available.
+
+
+Support in adding standard packages in packageslist.txt...!
